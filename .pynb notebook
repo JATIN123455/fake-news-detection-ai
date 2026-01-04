@@ -1,0 +1,4 @@
+# Fake News Detection using NLP
+
+This notebook implements a fake news detection system using NLP preprocessing, TF-IDF feature extraction, and machine learning models.  
+Developed and executed using Google Colab.
